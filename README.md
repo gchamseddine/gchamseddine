@@ -12,7 +12,8 @@
 
 ### Technologies
 
-- **Langages :** Java, C, PHP, Python, JavaScript
+- **Langages :** Java, C, PHP, Python, OCaml, JavaScript, SQL
 - **Frameworks :** Symfony, React (en cours d'apprentissage), Node.js (en cours d'apprentissage)
+- **Bases de données :** MySQL, PostgreSQL
 - **Outils :** Git, Linux
-- **Concepts :** MVC, Programmation orientée objet, Développement full-stack, Bases de données
+- **Concepts :** MVC, Programmation orientée objet, Développement full-stack, Conception de bases de données
