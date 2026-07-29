@@ -1,16 +1,18 @@
-## Hi there 👋
+## Bonjour 👋
 
-<!--
-**gchamseddine/gchamseddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en informatique à l'Université de Poitiers, passionné par le génie logiciel et le développement d'applications.
 
-Here are some ideas to get you started:
+### À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Je recherche actuellement un stage en génie logiciel / développement logiciel.
+- Je développe principalement en Java, C et PHP (Symfony).
+- Je travaille actuellement avec React et Node.js afin d'approfondir mes compétences en développement full-stack.
+- Je m'intéresse aux architectures logicielles, à la programmation orientée objet et aux bonnes pratiques de développement.
+- Je suis toujours motivé pour apprendre de nouvelles technologies et relever de nouveaux défis.
+
+### Technologies
+
+- **Langages :** Java, C, PHP, Python, JavaScript
+- **Frameworks :** Symfony, React (en cours d'apprentissage), Node.js (en cours d'apprentissage)
+- **Outils :** Git, Linux
+- **Concepts :** MVC, Programmation orientée objet, Développement full-stack, Bases de données
